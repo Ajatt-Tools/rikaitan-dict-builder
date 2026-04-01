@@ -1,6 +1,6 @@
 {
   "name": "rikaitan-dict-builder",
-  "version": "2.10.0",
+  "version": "2.11.2",
   "description": "Build Rikaitan dictionaries with ease.",
   "main": "dist/index.js",
   "scripts": {
